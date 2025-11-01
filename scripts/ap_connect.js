@@ -54,7 +54,7 @@ function ap_connect() {
                 name: ap_slot,
                 password: null,
                 version: { major: 0, minor: 6, build: 3, class: "Version"},
-                tags: ["WebHost", "DeathLink", "RingLink"],
+                tags: tags,
                 items_handling: 7,
                 slot_data: false
             }]));
