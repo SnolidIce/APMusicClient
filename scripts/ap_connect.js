@@ -62,9 +62,9 @@ function ap_connect() {
                 cmd: "Sync",
             }]))
             // REMAKE TRACKER
+            connected = true;
             createTracker();
             doConnect();
-            connected = true;
         }
         if (msg.cmd === "ReceivedItems") {
             updateTracker(msg);
