@@ -1000,7 +1000,7 @@
     },
     {
         "name": "MS: Peaceful Romancer",
-        "requires": "(|MS Good Ending| OR |MS Bad Ending|)",
+        "requires": "|MS Extra Stage Unlock|",
         "category": [
             "05 - Mystic Square"
         ],
@@ -3046,7 +3046,7 @@
     },
     {
         "name": "UNL: Unknown X ~ Unfound Adventure",
-        "requires": "",
+        "requires": "|Giant Catfish|",
         "category": [
             "12.3 - Hisoutensoku"
         ],
@@ -3139,7 +3139,7 @@
     },
     {
         "name": "UNL: Unknown X ~ Unfound Adventure (Arrange)",
-        "requires": "",
+        "requires": "|Giant Catfish|",
         "category": [
             "12.3 - Hisoutensoku"
         ],
@@ -6967,7 +6967,7 @@
     },
     {
         "name": "NToJ: Unknown X ~ Unfound Adventure",
-        "requires": "",
+        "requires": "|Giant Catfish|",
         "category": [
             "MC07 - Neo-Traditionalism of Japan"
         ],
